@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "737458337121",
+    "firebase_url": "https://tasks-gdg-3d913.firebaseio.com",
+    "project_id": "tasks-gdg-3d913",
+    "storage_bucket": "tasks-gdg-3d913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737458337121:android:be02db97389d9aec",
+        "android_client_info": {
+          "package_name": "samnunes.com.br.tasksgdgarapiraca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737458337121-a0c2i5nc7abr3inq92fuvqjt5nme7tru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "samnunes.com.br.tasksgdgarapiraca",
+            "certificate_hash": "30ae549fc59d4ac6d05f219e7f88830cf275045e"
+          }
+        },
+        {
+          "client_id": "737458337121-ij5aclnfigkn3aeusacm3v7866tesqdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw6Lgz7HjT7MN-8y_kC5yPeZAG89J13fM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737458337121-ij5aclnfigkn3aeusacm3v7866tesqdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
