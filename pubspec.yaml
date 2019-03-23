@@ -15,8 +15,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_slidable: ^0.4.9
+  flutter_slidable: ^0.4.9 #arrastar task p editar e excluir
   flutter_launcher_icons: ^0.7.0
+  cloud_firestore: ^0.9.7 #firebase database
+  intl: ^0.15.7 #date formating
+  #flare_dart: ^1.3.0
+  flare_flutter: ^1.3.4
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -42,6 +47,9 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+
+  assets:
+    - animations/ok.flr
 
   # To add assets to your application, add an assets section, like this:
   # assets:

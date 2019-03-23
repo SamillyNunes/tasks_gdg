@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:tasks_gdg_arapiraca/screens/ok_screen.dart';
 import 'package:tasks_gdg_arapiraca/screens/tasks_screen.dart';
 
 void main(){
@@ -8,7 +9,7 @@ void main(){
     debugShowCheckedModeBanner: false,
     theme: ThemeData(
       primaryColor: Colors.deepPurple,
-      dividerColor: Colors.cyan
+      dividerColor: Colors.deepOrange
     ),
   ));
 }
