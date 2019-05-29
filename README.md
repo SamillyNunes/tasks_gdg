@@ -1,6 +1,6 @@
-# tasks_gdg_arapiraca
+# Tasks GDG Arapiraca
 
-An app to manage your tasks with 3 states (to do, doing and done)
+An app to manage your tasks with 3 states (to do, doing and done). Created to present in a lecture on Flutter.
 
 ## Getting Started
 
