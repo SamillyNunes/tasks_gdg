@@ -1,16 +1,14 @@
 # Tasks GDG Arapiraca
 
-An app to manage your tasks with 3 states (to do, doing and done). Created to present in a lecture on Flutter.
+Um aplicativo para gerenciar suas tarefas com três estados: to do (a ser feito), doing (fazendo no momento) e done (já concluído). A aplicação é feita com o Flutter em conjunto com o dart, e no momento disponibiliza apenas o front-end.
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Pré-requisitos
 
-A few resources to get you started if this is your first Flutter project:
+- Ter o Flutter instalado no seu computador
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+- Um telefone ou emulador para rodar a aplicação
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
